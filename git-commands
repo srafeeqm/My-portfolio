@@ -2,8 +2,7 @@ Git Commands :
 These commands are for working locally with Git, the version control system.
 1. Setting up Git:
     • git config --global user.name "Your Name"
-Set your Git username.
-    • git config --global user.email "you@example.com"
+
 Set your Git email address.
     • git config --list
 Show your Git configuration.
