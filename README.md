@@ -1,5 +1,3 @@
 # my-portfolio
-Simple Portfolio 
-
-
+Simple Portfolio.
  
